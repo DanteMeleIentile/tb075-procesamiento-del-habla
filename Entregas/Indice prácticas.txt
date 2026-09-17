@@ -1,1 +1,21 @@
 Índice Prácticas
+Docs: import scipy.signal as sig sig.lfilter?
+
+P2:
+- Diccionario de Vocales
+- función "sintetizar_vocal"
+- Gráfico F1 y F2
+- Concatena frase
+- Espectrograma
+
+
+P3:
+- Diccionario + sintetizar_vocal + concatenar -> Audio de corrido
+- Mel, Banco de Mel, enmarcar_senial (ventaneo), mffc_propio
+- Plot energías mel + coeficientes
+- CDT
+- Gráfico de varianza por cada coeficiente
+
+
+P4:
+- 
